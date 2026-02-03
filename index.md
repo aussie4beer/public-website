@@ -1,0 +1,44 @@
+layout: default
+name: Stratus Solutions Consulting Website
+<main>
+        <h2></h2>
+        <h2>Who We Serve:</h2>
+        <p>Small, medium, and mid-market organizations (roughly 50 to 2,000 employees) in industries such as: 
+            <ul>
+                <li>Law firms</li>
+                <li>Healthcare Providers</li>
+                <li>Financial Institutions</li>
+                <li>Manufacturing</li>   
+                <li>Multi-site Retail</li>
+        </ul>
+        <h2>Common Challenges:</h2>
+        <ul>
+            <li>Complex mixes of on-premises, hosted, and public cloud infrastructure</li>
+            <li>Inconsistent backup, disaster recovery, or security posture</li>
+            <li>Under-staffed IT teams struggling to balance strategic business initiatives with day-to-day operations</li>
+        </ul>
+        <h2>How We Can Help:</h2>
+        <p>We serve as independent architecture advisors to help our clients:</p>
+        <ul>
+            <li>Translating business requirements into resilient, secure infrastructure and managed services</li>
+            <li>Selecting best-of-breed solutions from a broad supplier ecosystem</li>
+            <li>Placing the client's needs first by avoiding single-vendor biases</li>            
+        </ul>
+        <div class="services-container">
+            <div class="service-card">
+                <div class="service-icon">🔐</div>
+                <h3>Business Continuity & DR Readiness</h3>
+                <p>Assessments for regulated SMBs to ensure your organization can recover quickly from disruptions.</p>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">🌐</div>
+                <h3>Hybrid Cloud & Data Protection</h3>
+                <p>Strategic blueprint for integrating on-premises and cloud infrastructure securely.</p>
+            </div>
+            <div class="service-card">
+                <div class="service-icon">👤</div>
+                <h3>Fractional Architect</h3>
+                <p>Cloud/DR & Security architect retainer services for strategic guidance and planning.</p>
+            </div>
+        </div>
+    </main>
